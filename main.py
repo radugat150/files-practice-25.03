@@ -51,3 +51,4 @@ with open("data/data.json", "r", encoding="utf-8") as file, \
     print (list_ca)
     print(f"The amount of Californians {len(list_ca)}, out of {len(user_data)}")
 
+#jjjj
